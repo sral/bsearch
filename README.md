@@ -1,2 +1,2 @@
 Nothing to see here move along.
-Learning rust.
+Learning rust... toy example.
